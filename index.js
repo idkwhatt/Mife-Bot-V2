@@ -43,4 +43,4 @@ if(!prefixes[message.guild.id]){
  let commandfile = bot.commands.get(cmd.slice(prefix.length));
  if(commandfile) commandfile.run(bot, message, args);
 });
-bot.login(botconfig.token)
+bot.login(process.env.NDM4NDU0MTM5OTcwOTEyMjY2.DcE10Q.FYQ_JVzK8fk-fJtOiLXt3FHSW80)
